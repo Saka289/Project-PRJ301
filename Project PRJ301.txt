@@ -1,0 +1,22 @@
+1. BLUETOOTH HEADPHONE
+2. WIRED HEADPHONES
+3. OVER-EAR HEADPHONES
+4. BLUETOOTH SPEAKER
+5. MP3 PLAYER
+
+1. Chia sản phẩm trong category
++Loại 1:
+-Tai nghe Theo hãnh: Hãng beats
+-Tai nghe Theo hãnh: Hãng sony
+-Tai nghe Theo hãnh: Hãng Remax
+-Tai nghe Theo hãnh: Hãng JBL
+-Tai nghe Theo hãnh: Hãng Sám
+
+Dưới 50$
+Từ 50-100$
+Từ 100-200$
+Từ 200-300$
+Trên 300$
+
+2. DB diagram
+-https://dbdiagram.io/d/633baf19f0018a1c5f898acb
